@@ -9,7 +9,6 @@
 href="https://macaulay2.com/" target="_blank" rel="noreferrer"> <img 
 src="https://upload.wikimedia.org/wikipedia/commons/b/b0/Macaulay2_9planets_logo.jpg" alt="Macaulay2" width="40" height="40"/> </a> <a                                                                                                                                                                                                                                                                                           href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=elimashehu&show_icons=true&locale=en&layout=compact" alt="elimashehu" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=elimashehu&show_icons=true&locale=en" alt="elimashehu" /></p>
 
