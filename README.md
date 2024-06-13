@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋</h1>
- 🔭 I'm Elima, a Ph.D. candidate at Osnabruck University and MPMIS. My focus lies in solving polynomial systems and computing algebraic invariants using numerical and symbolic methods.
+ 🔭 I'm Elima, a postdoctoral researcher at Otto von Guericke University Magdeburg. My focus lies in solving polynomial systems and computing algebraic invariants using numerical and symbolic methods.
 
 - 🌱 I’m currently learning **msolve** - A Library for Solving Polynomial Systems
 - 📫 How to reach me **elimashehu@gmail.com**
